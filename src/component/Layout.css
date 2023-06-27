@@ -1,0 +1,10 @@
+.table{
+    margin-top: 10px;
+    border: 1px solid red;
+    width: 500px;
+    height: auto;
+}
+button.form-control {
+    background-color: black;
+    color: red;
+}
